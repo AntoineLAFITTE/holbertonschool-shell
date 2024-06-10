@@ -15,3 +15,5 @@ This project contains shell scripts related to user permissions.
 4-empty : Creates an empty file called hello.
 
 5-execute : adds execute permission to the owner of the file hello.
+
+6-multiple_permissions : adds owner permissions(read,write and execute), group permissions(read and write), others permissions(read).
