@@ -17,3 +17,5 @@ This project contains shell scripts related to user permissions.
 5-execute : adds execute permission to the owner of the file hello.
 
 6-multiple_permissions : adds owner permissions(read,write and execute), group permissions(read and write), others permissions(read).
+
+7-everybody : adds execution permisions on user group and others.
