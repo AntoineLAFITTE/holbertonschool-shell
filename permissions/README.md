@@ -19,3 +19,7 @@ This project contains shell scripts related to user permissions.
 6-multiple_permissions : adds owner permissions(read,write and execute), group permissions(read and write), others permissions(read).
 
 7-everybody : adds execution permisions on user group and others.
+
+8-James_Bond : sets permissions to the file hello as follows : Owner no permissions, Group no permissions , Other all permission.
+
+9-John_Doe : sets the permissions of the file hello following this permission patern -rwx-x-wx.
