@@ -23,3 +23,9 @@ This project contains shell scripts related to user permissions.
 8-James_Bond : sets permissions to the file hello as follows : Owner no permissions, Group no permissions , Other all permission.
 
 9-John_Doe : sets the permissions of the file hello following this permission patern -rwx-x-wx.
+
+10-mirror_permissions : sets the permissions mode of the file hello to  olleh's permissions mode.
+
+11-directories_permissions : adds execute permission to all subdirectories of the current directory for the owner, group and other users.
+
+12-directory_permissions : Creates a directory called my_dir with permissions 751 in the working directory.
