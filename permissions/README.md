@@ -31,3 +31,9 @@ This project contains shell scripts related to user permissions.
 12-directory_permissions : Creates a directory called my_dir with permissions 751 in the working directory.
 
 13-change_group : Changes the group owner to school for the file hello.
+
+14-change_owner_and_group : Changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+
+15-symbolic_link_permissions : Changes the owner and the group owner _hello to vincent and staff respectively.
+
+16-if_only : Changes the owner of the file hello to vincent only if its owned by the user guillaume.
