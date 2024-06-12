@@ -1,0 +1,14 @@
+total 48
+drwxr-xr-x 2 kiuby kiuby 4096 Jun 12 15:34 .
+drwxr-xr-x 6 kiuby kiuby 4096 Jun 12 11:08 ..
+-rwxr-xr-x 1 kiuby kiuby   32 Jun 12 11:02 0-hello_world
+-rwxr--r-- 1 kiuby kiuby   28 Jun 12 11:25 1-confused_smiley
+-rwxr--r-- 1 kiuby kiuby   28 Jun 12 11:29 2-hellofile
+-rwxr--r-- 1 kiuby kiuby   39 Jun 12 11:42 3-twofiles
+-rwxr--r-- 1 kiuby kiuby   29 Jun 12 11:46 4-lastlines
+-rwxr--r-- 1 kiuby kiuby   29 Jun 12 11:48 5-firstlines
+-rwxr--r-- 1 kiuby kiuby   40 Jun 12 12:02 6-third_line
+-rwxr--r-- 1 kiuby kiuby   83 Jun 12 15:19 7-file
+-rwxr--r-- 1 kiuby kiuby   35 Jun 12 15:34 8-cwd_state
+-rw-r--r-- 1 kiuby kiuby    0 Jun 12 15:35 ls_cwd_content
+-rw-r--r-- 1 kiuby kiuby  138 Jun 12 11:02 README.md
